@@ -2192,7 +2192,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.mintchain.io", "https://global.rpc.mintchain.io", "https://asia.rpc.minchain.io"],
+  "rpc": ["https://rpc.mintchain.io", "https://global.rpc.mintchain.io", "https://asia.rpc.mintchain.io"],
   "faucets": [],
   "infoURL": "https://www.mintchain.io"
 }, {
@@ -8799,6 +8799,19 @@
   "rpc": ["https://galileo.web3q.io:8545"],
   "faucets": [],
   "infoURL": "https://galileo.web3q.io/home.w3q/"
+}, {
+  "name": "EthStorage Mainnet",
+  "chainId": 3335,
+  "shortName": "es-m",
+  "networkId": 3335,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["http://mainnet.ethstorage.io:9540"],
+  "faucets": [],
+  "infoURL": "https://ethstorage.io/"
 }, {
   "name": "Paribu Net Mainnet",
   "chainId": 3400,
@@ -20523,6 +20536,19 @@
     "decimals": 18
   },
   "rpc": ["https://dchaintestnet-2713017997578000-1.jsonrpc.testnet.sagarpc.io"],
+  "faucets": [],
+  "infoURL": "https://www.dchain.foundation/"
+}, {
+  "name": "DCHAIN",
+  "chainId": 2716446429837000,
+  "shortName": "dchainmainnet",
+  "networkId": 2716446429837000,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://dchain-2716446429837000-1.jsonrpc.sagarpc.io"],
   "faucets": [],
   "infoURL": "https://www.dchain.foundation/"
 }]
